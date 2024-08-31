@@ -50,7 +50,7 @@ The Personal Portfolio project showcases my skills, projects, and experiences. I
 
 ### Screenshot
 
-![Portfolio Screenshot](link-to-screenshot)
+![Portfolio Screenshot](https://github.com/ananyaa012/CodeAlpha_Frontend-Development/blob/main/Task%203/mypersonalportfolio/Screenshot%202024-08-31%20121340.png )
 
 ### How to Use
 
@@ -74,7 +74,7 @@ The Music Player project is a web-based music player that allows users to play, 
 
 ### Screenshot
 
-![Music Player Screenshot](link-to-screenshot)
+![Music Player Screenshot](https://github.com/ananyaa012/CodeAlpha_Frontend-Development/blob/main/Task%204/music-player/Screenshot%202024-08-31%20121512.png)
 
 ### How to Use
 
