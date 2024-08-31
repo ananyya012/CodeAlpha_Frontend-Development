@@ -88,4 +88,35 @@ The Music Player project is a web-based music player that allows users to play, 
 
 - HTML
 - CSS
-- Java
+- JavaScript
+
+---
+
+## Installation
+
+To run these projects locally, follow these steps:
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/yourusername/internship-projects.git
+    ```
+2. Navigate to the desired project directory:
+    ```bash
+    cd calculator
+    ```
+3. Open `index.html` in your web browser:
+    ```bash
+    open index.html
+    ```
+
+---
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
