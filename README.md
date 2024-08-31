@@ -26,7 +26,7 @@ The Calculator project is a simple, yet functional calculator built using HTML, 
 
 ### Screenshot
 
-![Calculator Screenshot](link-to-screenshot)
+![Calculator Screenshot](https://github.com/ananyaa012/CodeAlpha_Frontend-Development/blob/main/Task%202/Calculator/Screenshot%202024-08-31%20120958.png)
 
 ### How to Use
 
@@ -98,7 +98,7 @@ To run these projects locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/internship-projects.git
+    git clone https://github.com/ananyaa012/internship-projects.git
     ```
 2. Navigate to the desired project directory:
     ```bash
@@ -119,4 +119,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+There are no License!
