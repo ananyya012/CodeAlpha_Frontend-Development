@@ -26,7 +26,7 @@ The Calculator project is a simple, yet functional calculator built using HTML, 
 
 ### Screenshot
 
-![Calculator Screenshot](https://github.com/ananyaa012/CodeAlpha_Frontend-Development/blob/main/Task%202/Calculator/Screenshot%202024-08-31%20120958.png)
+![Calculator Screenshot](https://github.com/ananyya012/CodeAlpha_Frontend-Development/blob/main/Task%202/Calculator/Screenshot%202024-08-31%20120958.png)
 
 ### How to Use
 
@@ -50,7 +50,7 @@ The Personal Portfolio project showcases my skills, projects, and experiences. I
 
 ### Screenshot
 
-![Portfolio Screenshot](https://github.com/ananyaa012/CodeAlpha_Frontend-Development/blob/main/Task%203/mypersonalportfolio/Screenshot%202024-08-31%20121340.png )
+![Portfolio Screenshot](https://github.com/ananyya012/CodeAlpha_Frontend-Development/blob/main/Task%203/mypersonalportfolio/Screenshot%202024-08-31%20121340.png )
 
 ### How to Use
 
@@ -74,7 +74,7 @@ The Music Player project is a web-based music player that allows users to play, 
 
 ### Screenshot
 
-![Music Player Screenshot](https://github.com/ananyaa012/CodeAlpha_Frontend-Development/blob/main/Task%204/music-player/Screenshot%202024-08-31%20121512.png)
+![Music Player Screenshot](https://github.com/ananyya012/CodeAlpha_Frontend-Development/blob/main/Task%204/music-player/Screenshot%202024-08-31%20121512.png)
 
 ### How to Use
 
@@ -98,7 +98,7 @@ To run these projects locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/ananyaa012/internship-projects.git
+    git clone https://github.com/ananyya012/internship-projects.git
     ```
 2. Navigate to the desired project directory:
     ```bash
